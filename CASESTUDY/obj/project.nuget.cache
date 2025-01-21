@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "byW+qbb8WYEVBSXJ1EZp2jSBe+0JwW4xLJYbwkkgj8W2HWIfFc74wkJgYNQRUTN54NS7SDDaQuYCBwLBWPr6pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PLPASIG\\Desktop\\CaseStudy\\CASESTUDY\\CASESTUDY.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\PLPASIG\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
